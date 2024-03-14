@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "VCNT2020")(type "Legacy")(uri "C:/Users/JHulbert/Documents/kicad/Local_Modules/VCNT2020/VCNT2020.lib")(options "")(descr ""))
+  (lib (name "PiRCy-cache")(type "Legacy")(uri "C:/Users/JHulbert/Documents/kicad/PiRCy/PiRCy-cache.lib")(options "")(descr ""))
+  (lib (name "USB_Plug")(type "Legacy")(uri "C:/Users/JHulbert/Documents/kicad/USB_Plug.lib")(options "")(descr ""))
+  (lib (name "DR-2_TX-rescue")(type "Legacy")(uri "${KIPRJMOD}/DR-2_TX-rescue.lib")(options "")(descr ""))
+)
