@@ -33,3 +33,17 @@ FabOut_RX/
 FabOut_TX/
 
 TX_production/
+
+panelized/
+
+pics/
+
+combined BOMS.xlsx
+
+*.zip
+
+*.FCStd1
+
+DR-2_TX-rescue.dcm
+
+DR-2_TX-rescue.lib
